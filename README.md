@@ -23,6 +23,21 @@ This project aims to:
 The repository is developed in the context of a bachelor thesis focused on:
 **Process optimization and sustainability in automotive testing environments**
 
+## Architecture
+
+The system is structured into three main components:
+
+1. Configuration Definition  
+   - Standardized format for test configurations  
+
+2. Validation Layer  
+   - Ensures required parameters and consistency  
+
+3. Integration Layer (planned)  
+   - Interface to testing pipelines and automation tools  
+
+This modular approach enables scalability and reuse across different testing scenarios.
+
 ## Future Work
 
 - Integration with testing pipelines
