@@ -1,1 +1,5 @@
-
+{
+  "vehicle": "test_vehicle_01",
+  "sensors": ["ultrasonic", "camera"],
+  "test_case": "parking_assist_parallel"
+}
