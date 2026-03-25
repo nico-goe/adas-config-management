@@ -49,3 +49,8 @@ This modular approach enables scalability and reuse across different testing sce
 Work in progress – actively developed.
 
 stay tuned
+
+## Example Usage
+
+```bash
+python main.py validate examples/sample_config.json
