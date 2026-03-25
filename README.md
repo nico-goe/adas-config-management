@@ -48,6 +48,8 @@ This modular approach enables scalability and reuse across different testing sce
 
 Work in progress – actively developed.
 
+The code is intentionally structured and documented for educational and practical engineering use.
+
 stay tuned
 
 ## Example Usage
