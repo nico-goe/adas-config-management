@@ -11,6 +11,7 @@ Approach:
 - Standardized configuration format
 - Reusable configuration states
 - Basis for automation and validation
+- universally applicable to various projects
 
 Goal:
 Reduce testing effort and improve sustainability in automotive engineering processes.
